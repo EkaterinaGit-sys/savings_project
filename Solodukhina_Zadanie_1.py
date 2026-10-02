@@ -1,4 +1,7 @@
 '''Задание 1. Программа считает, сколько денег было накоплено за неделю'''
+
+print("Изменения для клона")
+
 from typing import List
 
 def summa(numbers: List[float]) -> float:
